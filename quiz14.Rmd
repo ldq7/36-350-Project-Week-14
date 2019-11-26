@@ -11,3 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 print("first R git project. hi.")
 ```
+
+```{r}
+1+1
+```
